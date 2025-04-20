@@ -12,12 +12,7 @@ KoboldCPP is a powerful tool for running large language models locally via Colab
 
 - Embedded display of the official [KoboldCPP Colab notebook](https://colab.research.google.com/github/lostruins/koboldcpp/blob/concedo/colab.ipynb)
 - Minimal interface for a focused experience
-- No ads, trackers, or custom assets
 
-## Link
-
-Visit the live version here:  
-[**Launch KoboltCPP Webapp**](https://colab.research.google.com/github/lostruins/koboldcpp/blob/concedo/colab.ipynb)
 
 ## Disclaimer
 
